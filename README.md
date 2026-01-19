@@ -7,5 +7,7 @@ Một trang web đơn giản, đẹp mắt hiển thị hiệu ứng pháo hoa s
 -Tùy biến dễ dàng: Có thể thay đổi màu sắc, số lượng pháo và tốc độ nổ một cách nhanh chóng.
 -Nhẹ & Nhanh: Không cần thư viện nặng nề, chỉ sử dụng Vanilla JS.
 ---
-##🚀 Demo
--Link Live Preview: https://maiyeuem24092012.github.io/Fireworks-web/
+## 🚀 Demo
+Link Live Preview: https://maiyeuem24092012.github.io/Fireworks-web/
+---
+
